@@ -1,5 +1,5 @@
 <?php
 
-priint "first code !!";
+print "first code !!";
 
 ?>
