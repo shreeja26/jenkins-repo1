@@ -1,0 +1,5 @@
+<?php
+
+priint "first code !!";
+
+?>
